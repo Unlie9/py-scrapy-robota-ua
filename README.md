@@ -51,6 +51,6 @@ scrapy crawl robota -o vacancies.csv
 The output will be saved in robota/vacancies.csv
 
 ![top_title.png](data-analysis/images/top_title.png)
-![top_city.png](data-analysis/images/top_city.png)
 ![top_roles.png](data-analysis/images/top_roles.png)
 ![top_tech.png](data-analysis/images/top_tech.png)
+![top_city.png](data-analysis/images/top_city.png)
