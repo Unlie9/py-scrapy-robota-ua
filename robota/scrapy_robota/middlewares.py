@@ -11,7 +11,7 @@ from itemadapter import is_item, ItemAdapter
 
 class RobotaSpiderMiddleware:
     # Not all methods need to be defined. If a method is not defined,
-    # scrapy acts as if the spider middleware does not modify the
+    # scrapy_robota acts as if the spider middleware does not modify the
     # passed objects.
 
     @classmethod
@@ -58,7 +58,7 @@ class RobotaSpiderMiddleware:
 
 class RobotaDownloaderMiddleware:
     # Not all methods need to be defined. If a method is not defined,
-    # scrapy acts as if the downloader middleware does not modify the
+    # scrapy_robota acts as if the downloader middleware does not modify the
     # passed objects.
 
     @classmethod
