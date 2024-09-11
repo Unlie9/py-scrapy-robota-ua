@@ -1,0 +1,32 @@
+{
+  "technologies": [
+    "Python", 
+    "WSL", 
+    "SQL", 
+    "REST", 
+    "API", 
+    "Docker", 
+    "Linux", 
+    "Django", 
+    "Postrgresql", 
+    "Artificial Learning",
+    "Js", 
+    "Machine Learning", 
+    "React", 
+    "OOP", 
+    "Flask", 
+    "NoSQL", 
+    "networking", 
+    "HTML", 
+    "CSS", 
+    "DRF", 
+    "FastAPI",
+    "FullStack", 
+    "asyncio", 
+    "GraphQL", 
+    "algorithms", 
+    "MongoDB", 
+    "microservice", 
+    "Tableau"
+  ]
+}
