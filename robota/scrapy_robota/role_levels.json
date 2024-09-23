@@ -1,0 +1,9 @@
+{
+  "Intern": ["Intern", "Стажер", "Стажування", "Интерн", "Trainee", "Початківець"],
+  "Junior": ["Junior", "Младший", "Молодший", "Джуніор", "Джун", "Junior Developer", "Начинающий"],
+  "Middle": ["Middle", "Средний", "Середній", "Мідл", "Mid-level", "Middle Developer"],
+  "Senior": ["Senior", "Старший", "Сеньор", "Сеньйор", "Senior Developer", "Ведущий", "Lead", "Experienced"],
+  "Lead": ["Lead", "Лід", "Ведущий", "Head", "Team Lead", "Тимлид"],
+  "Principal": ["Principal", "Главный", "Провідний", "Principal Engineer", "Principal Developer"],
+  "Mentor": ["Mentor", "Наставник", "Ментор", "Инструктор", "Instructor"]
+}
